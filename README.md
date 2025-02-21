@@ -6,7 +6,7 @@ Hi there! I'm Nabila, a data enthusiast with a strong background in **predictive
 
 🚀 Passionate about transforming raw data into actionable insights to drive business growth.
 
-When I’m not working on data projects, I enjoy exploring UI/UX design, researching data trends, and watching documentaries. 🎬📊.
+When I’m not working on data projects, I enjoy exploring UI/UX design, researching data trends, and watching documentaries 🎬📊.
 
 ## 🏂 Skills
 <img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="exc" width="50"/>&nbsp;
