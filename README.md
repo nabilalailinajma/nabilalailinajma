@@ -16,3 +16,11 @@ When I’m not working on data projects, I enjoy exploring UI/UX design, researc
 <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354011/looker.svg" alt="looker" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="git" width="50"/>&nbsp;
+
+## 📖 Random Quote
+
+_"In God we trust. All others must bring data."_ – W. Edwards Deming
+
+---
+
+📩 Feel free to connect, share feedback, or collaborate on my projects! 😊
