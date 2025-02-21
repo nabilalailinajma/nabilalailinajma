@@ -31,8 +31,6 @@ When I’m not working on data projects, I enjoy exploring UI/UX design, researc
 **App**
 - [Vehicle Rental Management System](https://github.com/nabilalailinajma/Vehicle-Rental-App) - Python-based vehicle rental management system with CRUD functionality.
 
-
-
 ## 📖 Random Quote
 
 _"In God we trust. All others must bring data."_ – W. Edwards Deming
@@ -40,4 +38,5 @@ _"In God we trust. All others must bring data."_ – W. Edwards Deming
 ---
 Thank you for visiting my profile!
 
-📩 Feel free to connect, share feedback, or collaborate on my projects! 😊
+Feel free to connect, share feedback, or collaborate on my projects! 😊
+📩[Contact Me](mailto:nabilasworks@gmail.com)
