@@ -13,7 +13,7 @@ When I’m not working on data projects, I enjoy exploring UI/UX design, researc
 <img src="https://trifacta-cms-assets.s3.us-west-2.amazonaws.com/3rd-party/logos/GoogleSheets_ConnectorLogo.png" alt="gsheet" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="sql" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374016/python.svg" alt="py" width="50"/>&nbsp;
-<img src="https://www.svgrepo.com/svg/373938/numpy" alt="py" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/svg/373938/numpy.svg" alt="py" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354011/looker.svg" alt="looker" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="50"/>&nbsp;
