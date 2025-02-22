@@ -24,7 +24,7 @@ When I’m not working on data projects, I enjoy exploring UI/UX design, researc
 - [Customer Retention with Cohort Analysis](https://github.com/nabilalailinajma/Customer-Retention-Cohort_Analysis) - Cohort analysis to uncover customer retention trends, identify key patterns, and explore factors influencing retention in B2B accounts receivable management.
 
 **Machine Learning**
-- [Customer Lifetime Value Prediction](https://github.com/nabilalailinajma/CLV_Prediction) - Machine learning model to predict Customer Lifetime Value (CLV) for a vehicle insurance company to enhance customer retention and optimize marketing strategies.
+- [Customer Lifetime Value Prediction](https://github.com/nabilalailinajma/CLV_Prediction) - Predict Customer Lifetime Value (CLV) for a vehicle insurance company to enhance customer retention and optimize marketing strategies.
 - [BBCA Stock Forecasting](https://github.com/nabilalailinajma/BBCA-Stock_Forecasting) - Time series analysis to forecast BBCA stock prices (2021-2025) and optimize investment decisions
 - [Makan Bergizi Gratis Sentimen Analysis](https://github.com/nabilalailinajma/Sentiment-Analysis-Makan-Bergizi-Gratis_TextMining) - Text mining and deep learning to analyze public sentiment and discussion trends on makan bergizi gratis programs.
 
